@@ -1,6 +1,4 @@
-Sure, I'll create a `README.md` file for your calculator project. This file will include a brief description of the project, instructions for setup, usage, and how to run tests.
-
-### README.md Content
+### README.md 
 
 ```markdown
 # Tkinter Calculator
